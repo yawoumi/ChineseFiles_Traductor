@@ -25,7 +25,7 @@ Select your directory with double click and click ok to run the conversion
 
 ## Install libraries
 
-Make sure to have python3, pip installed before Or install them through the cmd.
+Make sure to have python3 and pip installed before Or install them through the cmd of windows
 ### Install pip
 ```
 $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
